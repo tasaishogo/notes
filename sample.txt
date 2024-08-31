@@ -1,0 +1,6 @@
+curl -X POST \
+-H 'Content-Type: application/json' \
+-d '{"content":"Hello World","attachment":"hello.jpg"}' \
+https://971i9q243e.execute-api.us-west-2.amazonaws.com
+
+"noteId":"45aa3c40-674a-11ef-ba32-29f9f27cef86"
